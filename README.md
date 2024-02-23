@@ -4,6 +4,7 @@ Me chamo Célio Cardinalli Junior
 
 Sou Bombeiro em SP/BR.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?JundsV=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
